@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-n19&label=Profile%20views&color=0e75b6&style=flat" alt="habib-n19" /> </p>
 
-- 🌱 I’m currently learning **Next js, Typescript**
+- 🌱 I’m currently learning **Typescript , Next js**
 
-- 💬 Ask me about **React, Javascript and Express**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **habiburnabiarafat@gmail.com**
 
-- ⚡ Fun fact **I'm more funnier than you think**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
