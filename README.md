@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img  alt="coding" width="800" src="https://media.licdn.com/dms/image/D5616AQE5dQ5jtS7e4w/profile-displaybackgroundimage-shrink_350_1400/0/1697738000789?e=1721260800&v=beta&t=q9ZK5JsqvcuZug48QqgyN62uXlaEaqXJBEcYjB9VGQg">
+<img  alt="coding" width="800" src="https://i.ibb.co/jvjKB2r/1697738000789.jpg">
 <h1 align="center">Hi 👋, I'm Habib</h1>
 <h3 align="center">Passionate MERN stack developer from Bangladesh, crafting innovative web experiences.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/4DEF84bYG2AAAAAS/stray-programming.gif">
