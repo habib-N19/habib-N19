@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Passionate MERN stack developer from Bangladesh, crafting innovative web experiences.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/4DEF84bYG2AAAAAS/stray-programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-n19&label=Profile%20views&color=0e75b6&style=flat" alt="habib-n19" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=habib-n19&label=Profile%20views&color=0e75b6&style=flat" alt="habib-n19" /> </p> -->
 
 - 🌱 I’m currently learning **Typescript , Next js**
 
